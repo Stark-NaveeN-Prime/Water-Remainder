@@ -41,6 +41,6 @@ Default Interval: The reminder is configured to check and launch immediately upo
 Interval Adjustments: To update baseline timer configurations, you can easily change the values of self.next_reminder_delay = 300 (calculated in seconds) inside the script source code.
 
 🧑‍💻 Credits & Attribution
-Prompt & Design Concept by: Stark
+Prompt & Design Concept by: Stark Naveen Prime
 
 Developer Instagram: 📸 @Starknaveenprime
