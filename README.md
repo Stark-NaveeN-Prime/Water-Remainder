@@ -22,7 +22,7 @@ This application uses **Python 3** and relies on the `Pillow` library to handle 
 
 Before running the application, make sure you have dependencies set up by executing:
 
-```bash
+
 pip install pillow
 📦 Project Setup & Execution
 Clone or Download this repository to your local device.
