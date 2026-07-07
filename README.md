@@ -25,6 +25,9 @@ Before running the application, make sure you have dependencies set up by execut
 ```bash
 pip install pillow
 ```
+```bash
+pip install pystray
+```
 📦 Project Setup & Execution
 Clone or Download this repository to your local device.
 
