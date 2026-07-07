@@ -22,19 +22,13 @@ This application uses **Python 3** and relies on the `Pillow` library to handle 
 
 Before running the application, make sure you have dependencies set up by executing:
 
-
+```bash
 pip install pillow
+```
 📦 Project Setup & Execution
 Clone or Download this repository to your local device.
 
-Ensure your custom character GIF file is saved in your path directory, or replace the self.character_path variable inside the script with your absolute system directory address:
 
-Python
-self.character_path = r"C:\Users\TonyStarkNaveen\Downloads\Walking_drinking_water_left_right_202607071140.gif"
-Run the application from your command line terminal:
-
-Bash
-python water_reminder.py
 💡 Configuration
 Default Interval: The reminder is configured to check and launch immediately upon startup, and then default back onto a 5-minute schedule.
 
@@ -44,3 +38,28 @@ Interval Adjustments: To update baseline timer configurations, you can easily ch
 Prompt & Design Concept by: Stark Naveen Prime
 
 Developer Instagram: 📸 @Starknaveenprime
+# 💧 Desktop Hydration Companion
+
+A lightweight Windows system tray application that monitors your hydration habits and displays customized animated toast alerts using your favorite character GIFs. 
+
+---
+
+## 🚀 Getting Started
+
+This repository provides the compiled, ready-to-use production executable file (`.exe`). It runs natively in your system tray without requiring Python or external environments installed on your machine.
+
+1. Download **`water_reminder.exe`** from the [Releases](../../releases) section.
+2. Double-click to launch.
+3. Right-click the drop icon in your taskbar system tray to tweak settings or change your character GIF location.
+
+---
+
+## 🛠️ Looking for the Source Code?
+
+To maintain the security of the build environment, the raw Python source files are private. However, I am more than happy to share the complete repository code with developers, open-source contributors, or anyone looking to learn!
+
+If you want access to the raw source files (`.py`), feel free to reach out to me directly:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Starknaveenprime)
+
+📬 **Drop me a Direct Message saying "Water Reminder Source Code"** and I will gladly share the codebase with you!
